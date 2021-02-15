@@ -5,4 +5,4 @@ This is your first project during your bootcamp. If you choose this dataset you'
 
 
 * [The Dataset](us_bank_wages.txt) 
-* [Column names and describtions](column_names.md)
+* [Column names and descriptions](column_names.md)
