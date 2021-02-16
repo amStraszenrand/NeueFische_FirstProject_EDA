@@ -1,7 +1,7 @@
-
-- SALARY - in US-Dollar [\$]
-- EDUC - Education in years.
-- SALBEGIN - Starting salary in US-Dollar [\$]
-- GENDER - Factor indicating gender.
-- MINORITY - Factor, if the employee is member of a minority
-- JOBCAT - Ordered factor indicating job category, with levels "custodial", "admin" and "manage".
+# Column Names and descriptions for US Bank Wages data set
+* **SALARY**:  current yearly salary in dollar [\$]
+* **EDUC**: education (number of finished years)
+* **SALBEGIN**: yearly salary at employee's first position at same bank in dollars [\$]
+* **GENDER**: gender variable (0 for females, 1 for males)
+* **MINORITY**: minority variable (0 for non-minorities, 1 for minorities)
+* **JOBCAT**: - job category (1 for administrative jobs, 2 for custodial jobs, 3 for management jobs)
