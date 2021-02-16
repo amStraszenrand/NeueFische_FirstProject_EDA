@@ -1,7 +1,7 @@
 # First Project - Data Analysis
 
 This project is centered around exploratory data 
-analysis (EDA) techniques and statistical analysis, 
+analysis [(EDA)](EDA_Checklist.pdf) techniques and statistical analysis, 
 as well as modeling data using linear regression.
 
 ## Topics and Task
@@ -15,7 +15,7 @@ This dataset contains information about home sales in King County (USA).
 This dataset contains information about the wages of employees of a US bank. 
 
 No matter which dataset you choose, your task will be to perform an extensive EDA and to train a simple linear regression model. 
-For a more detailed task description have a look at the [assignment](Project_Assignement.pdf).
+For a more detailed task description have a look at the [assignment](Project_Assignment.pdf).
 
 ## Getting Started
 
