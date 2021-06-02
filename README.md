@@ -8,7 +8,7 @@ as well as modeling data using linear regression.
 
 There are two topics available: 
 
-1. [King County Housing Data](kc_housing_prices):
+1. [King County Housing Data](kc_house_prices):
 This dataset contains information about home sales in King County (USA). 
 
 2. [US Bank Wages](us_bank_wages): 
